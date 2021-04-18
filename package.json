@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/gosho6677/node-postgre-api.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "rest",
+    "api",
+    "postgresql"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
